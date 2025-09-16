@@ -1,3 +1,4 @@
+- [GitHub - infiniflow/ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
 - [GitHub - yzfly/Awesome-MCP-ZH: MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients](https://github.com/yzfly/Awesome-MCP-ZH)
 - [Sol • Atlas of Space](https://atlasof.space/sol) ThreeJS做的太阳系运转Web #interesting
 - [piaomz/osmo-bookmark](https://github.com/piaomz/osmo-bookmark) try have one memo #test
