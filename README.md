@@ -1,3 +1,4 @@
+- [Bishoymly/zod-schema-designer](https://github.com/Bishoymly/zod-schema-designer)
 - [Notion 使用教程：Notion 剪藏一站式解决方案——Notion Web Clipper、Save to Notion 等六种剪藏插件推荐](https://zhuanlan.zhihu.com/p/624412668)
 - [GitHub - infiniflow/ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
 - [GitHub - yzfly/Awesome-MCP-ZH: MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients](https://github.com/yzfly/Awesome-MCP-ZH)
