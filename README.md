@@ -1,3 +1,7 @@
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) MiniMind系列极其轻量，最小版本体积是 GPT-3 的 
+1
+7000
+，力求做到最普通的个人GPU也可快速训练
 - [Bishoymly/zod-schema-designer](https://github.com/Bishoymly/zod-schema-designer)
 - [Notion 使用教程：Notion 剪藏一站式解决方案——Notion Web Clipper、Save to Notion 等六种剪藏插件推荐](https://zhuanlan.zhihu.com/p/624412668)
 - [GitHub - infiniflow/ragflow: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs](https://github.com/infiniflow/ragflow)
