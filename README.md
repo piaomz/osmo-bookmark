@@ -1,3 +1,4 @@
+- [liriliri/chii](https://github.com/liriliri/chii) Remote debugging tool like weinre, replacing web inspector with the latest chrome devtools frontend.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) MiniMind系列极其轻量，最小版本体积是 GPT-3 的 
 1
 7000
